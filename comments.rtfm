@@ -1,0 +1,4 @@
+In some macros I'm using special token, named Lib:GMDB.
+There I changed default properties to GMDB properties.
+
+At this moment there is only one property - PCTokens, where are all PC tokens named.
